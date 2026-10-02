@@ -1,0 +1,15 @@
+{
+  "name": "EcoTroca App",
+  "short_name": "EcoTroca",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2e7d32",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/892/892926.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
